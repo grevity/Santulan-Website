@@ -1,0 +1,208 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 12 Jul 2021 23:40:27 at http://anpsthemes.com/psychiatrist/demo-2/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://anpsthemes.com/psychiatrist/demo-2/ -O1 "E:\Projects\santulan-template\sanutlan" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:40:30	Warning: 	Note: due to anpsthemes.com remote robots.txt rules, links beginning with these path will be forbidden: /anpsthemes/wp-admin/ (see in the options to disable this)
+23:44:17	Error: 	"Method Not Allowed" (405) at link anpsthemes.com/psychiatrist/demo-2/xmlrpc.php (from anpsthemes.com/psychiatrist/demo-2/)
+23:45:32	Warning: 	Retry after error -4 (Incorrect length (230460 Bytes, 232000 expected)) at link anpsthemes.com/psychiatrist/demo-2/wp-json/ (from anpsthemes.com/psychiatrist/demo-2/)
+23:45:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): anpsthemes.com/psychiatrist/demo-2/wp-json/
+23:52:12	Warning: 	Retry after error -4 (Incorrect length (245794 Bytes, 374208 expected)) at link anpsthemes.com/psychiatrist/demo-2/wp-content/uploads/2016/03/slideV4-2.jpg (from anpsthemes.com/psychiatrist/demo-2/)
+23:52:13	Warning: 	Retry after error -4 (Incorrect length (346901 Bytes, 506972 expected)) at link anpsthemes.com/psychiatrist/demo-2/wp-content/uploads/2016/03/slideV3-1.jpg (from anpsthemes.com/psychiatrist/demo-2/)
+23:52:20	Warning: 	Retry after error -4 (Incorrect length (547941 Bytes, 694964 expected)) at link anpsthemes.com/psychiatrist/demo-2/wp-content/uploads/2016/03/slideV3-3.jpg (from anpsthemes.com/psychiatrist/demo-2/)
+23:53:33	Warning: 	File not parsed, looks like binary: anpsthemes.com/psychiatrist/demo-2/wp-content/plugins/revslider/public/assets/css/openhand.cur
+23:53:33	Warning: 	File not parsed, looks like binary: anpsthemes.com/psychiatrist/demo-2/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+23:53:33	Error: 	"Not Found" (404) at link anpsthemes.com/psychiatrist/demo-2/wp-content/themes/psychiatrist/fonts/bootstrap/glyphicons-halflings-regular.eot (from anpsthemes.com/psychiatrist/demo-2/wp-content/themes/psychiatrist/css/bootstrap.css?ver=4.9.18)
+23:53:33	Error: 	"Not Found" (404) at link anpsthemes.com/psychiatrist/demo-2/wp-content/themes/psychiatrist/fonts/bootstrap/glyphicons-halflings-regular.eot? (from anpsthemes.com/psychiatrist/demo-2/wp-content/themes/psychiatrist/css/bootstrap.css?ver=4.9.18)
+23:53:33	Error: 	"Not Found" (404) at link anpsthemes.com/psychiatrist/demo-2/wp-content/themes/psychiatrist/fonts/bootstrap/glyphicons-halflings-regular.woff2 (from anpsthemes.com/psychiatrist/demo-2/wp-content/themes/psychiatrist/css/bootstrap.css?ver=4.9.18)
+23:53:33	Error: 	"Not Found" (404) at link anpsthemes.com/psychiatrist/demo-2/wp-content/themes/psychiatrist/fonts/bootstrap/glyphicons-halflings-regular.woff (from anpsthemes.com/psychiatrist/demo-2/wp-content/themes/psychiatrist/css/bootstrap.css?ver=4.9.18)
+23:53:33	Error: 	"Not Found" (404) at link anpsthemes.com/psychiatrist/demo-2/wp-content/themes/psychiatrist/fonts/bootstrap/glyphicons-halflings-regular.ttf (from anpsthemes.com/psychiatrist/demo-2/wp-content/themes/psychiatrist/css/bootstrap.css?ver=4.9.18)
+23:53:33	Error: 	"Not Found" (404) at link anpsthemes.com/psychiatrist/demo-2/wp-content/themes/psychiatrist/fonts/bootstrap/glyphicons-halflings-regular.svg (from anpsthemes.com/psychiatrist/demo-2/wp-content/themes/psychiatrist/css/bootstrap.css?ver=4.9.18)
+23:53:33	Error: 	"Not Found" (404) at link anpsthemes.com/psychiatrist/demo-2/wp-content/themes/psychiatrist/css/boxed/pattern-10.png (from anpsthemes.com/psychiatrist/demo-2/wp-content/themes/psychiatrist/css/core.css?ver=4.9.18)
+23:53:33	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1296
+23:53:33	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1296 to http://anpsthemes.com/psychiatrist/demo-2/toggles-accordions/
+23:53:33	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1313
+23:53:33	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1313 to http://anpsthemes.com/psychiatrist/demo-2/tabs/
+23:53:33	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1334
+23:53:33	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1334 to http://anpsthemes.com/psychiatrist/demo-2/tables/
+23:53:33	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1342
+23:53:33	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1342 to http://anpsthemes.com/psychiatrist/demo-2/progress-bars/
+23:53:33	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1347
+23:53:33	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1347 to http://anpsthemes.com/psychiatrist/demo-2/notifications/
+23:53:33	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1353
+23:53:33	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1353 to http://anpsthemes.com/psychiatrist/demo-2/gallery/
+23:53:33	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1369
+23:53:33	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1369 to http://anpsthemes.com/psychiatrist/demo-2/video/
+23:53:33	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1375
+23:53:33	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1375 to http://anpsthemes.com/psychiatrist/demo-2/faq/
+23:53:33	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1379
+23:53:33	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1379 to http://anpsthemes.com/psychiatrist/demo-2/typography/
+23:53:33	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1408
+23:53:33	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1408 to http://anpsthemes.com/psychiatrist/demo-2/about-me/
+23:53:39	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1436
+23:53:39	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1436 to http://anpsthemes.com/psychiatrist/demo-2/services/
+23:53:39	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1450
+23:53:39	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1450 to http://anpsthemes.com/psychiatrist/demo-2/anxiety-therapy/
+23:53:39	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1508
+23:53:39	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1508 to http://anpsthemes.com/psychiatrist/demo-2/couples-therapy/
+23:53:39	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1512
+23:53:39	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1512 to http://anpsthemes.com/psychiatrist/demo-2/anti-stress-therapy/
+23:53:39	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1514
+23:53:39	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1514 to http://anpsthemes.com/psychiatrist/demo-2/children-therapy/
+23:53:39	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1522
+23:53:39	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1522 to http://anpsthemes.com/psychiatrist/demo-2/group-therapy/
+23:53:39	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1524
+23:53:39	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1524 to http://anpsthemes.com/psychiatrist/demo-2/family-therapy/
+23:53:39	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1266
+23:53:39	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1266 to http://anpsthemes.com/psychiatrist/demo-2/news-2/
+23:54:38	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1633
+23:54:38	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1633 to http://anpsthemes.com/psychiatrist/demo-2/2-column-news/
+23:54:38	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1635
+23:54:38	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1635 to http://anpsthemes.com/psychiatrist/demo-2/3-column-news/
+23:58:22	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1482
+23:58:22	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1482 to http://anpsthemes.com/psychiatrist/demo-2/contact-us/
+23:58:33	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1241
+23:58:33	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1241 to http://anpsthemes.com/psychiatrist/demo-2/group-therapy-post/
+23:58:49	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1184
+23:58:49	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1184 to http://anpsthemes.com/psychiatrist/demo-2/conquer-depression-post/
+23:58:51	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1183
+23:58:51	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1183 to http://anpsthemes.com/psychiatrist/demo-2/anti-stress-exercise-post/
+23:58:52	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1182
+23:58:52	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1182 to http://anpsthemes.com/psychiatrist/demo-2/couples-therapy-post/
+23:58:52	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1179
+23:58:52	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1179 to http://anpsthemes.com/psychiatrist/demo-2/a-video-post/
+23:58:54	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1264
+23:58:54	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1264 to http://anpsthemes.com/psychiatrist/demo-2/a-post-without-image/
+23:58:54	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1426
+23:58:54	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1426 to http://anpsthemes.com/psychiatrist/demo-2/team/sara-wayne-ph-d/
+23:58:54	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1424
+23:58:54	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1424 to http://anpsthemes.com/psychiatrist/demo-2/team/steve-planer/
+23:58:54	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=1422
+23:58:54	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=1422 to http://anpsthemes.com/psychiatrist/demo-2/team/mark-teran/
+23:58:54	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=651
+23:58:54	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=651 to http://anpsthemes.com/psychiatrist/demo-2/product/quick-guide/
+00:01:09	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/wp-admin/
+00:01:09	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/wp-admin/ to http://anpsthemes.com/psychiatrist/demo-2/wp-login.php?redirect_to=http%3A%2F%2Fanpsthemes.com%2Fpsychiatrist%2Fdemo-2%2Fwp-admin%2F&reauth=1
+00:01:46	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=7
+00:01:46	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=7 to http://anpsthemes.com/psychiatrist/demo-2/cart/
+00:01:48	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=648
+00:01:48	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=648 to http://anpsthemes.com/psychiatrist/demo-2/product/anxiety-help/
+00:02:19	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=443cb001c138b2561a0d90720d6ce111&_wpnonce=5adb1187ab
+00:02:19	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=443cb001c138b2561a0d90720d6ce111&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/?removed_item=1
+00:02:48	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=643
+00:02:48	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=643 to http://anpsthemes.com/psychiatrist/demo-2/product/brain-power/
+00:03:30	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=9b698eb3105bd82528f23d0c92dedfc0&_wpnonce=5adb1187ab
+00:03:30	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=9b698eb3105bd82528f23d0c92dedfc0&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/?removed_item=1
+00:03:42	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=644
+00:03:42	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=644 to http://anpsthemes.com/psychiatrist/demo-2/product/calm-mind/
+00:04:05	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=8c7bbbba95c1025975e548cee86dfadc&_wpnonce=5adb1187ab
+00:04:05	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=8c7bbbba95c1025975e548cee86dfadc&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/?removed_item=1
+00:04:16	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=656
+00:04:16	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=656 to http://anpsthemes.com/psychiatrist/demo-2/product/depression-winner/
+00:04:53	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=26408ffa703a72e8ac0117e74ad46f33&_wpnonce=5adb1187ab
+00:04:53	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=26408ffa703a72e8ac0117e74ad46f33&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/?removed_item=1
+00:05:03	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=642
+00:05:03	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=642 to http://anpsthemes.com/psychiatrist/demo-2/product/emotions-surge/
+00:05:38	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=291597a100aadd814d197af4f4bab3a7&_wpnonce=5adb1187ab
+00:05:38	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=291597a100aadd814d197af4f4bab3a7&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/?removed_item=1
+00:05:40	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=654
+00:05:40	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=654 to http://anpsthemes.com/psychiatrist/demo-2/product/group-session/
+00:06:25	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=ab233b682ec355648e7891e66c54191b&_wpnonce=5adb1187ab
+00:06:25	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=ab233b682ec355648e7891e66c54191b&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/?removed_item=1
+00:06:31	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=647
+00:06:31	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=647 to http://anpsthemes.com/psychiatrist/demo-2/product/happiness/
+00:07:08	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=303ed4c69846ab36c2904d3ba8573050&_wpnonce=5adb1187ab
+00:07:08	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=303ed4c69846ab36c2904d3ba8573050&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/?removed_item=1
+00:07:15	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=649
+00:07:15	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=649 to http://anpsthemes.com/psychiatrist/demo-2/product/help-your-mind/
+00:07:50	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=55b37c5c270e5d84c793e486d798c01d&_wpnonce=5adb1187ab
+00:07:50	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=55b37c5c270e5d84c793e486d798c01d&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/?removed_item=1
+00:07:59	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=652
+00:07:59	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=652 to http://anpsthemes.com/psychiatrist/demo-2/product/mind-analysis/
+00:08:45	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=30ef30b64204a3088a26bc2e6ecf7602&_wpnonce=5adb1187ab
+00:08:45	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=30ef30b64204a3088a26bc2e6ecf7602&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/?removed_item=1
+00:08:53	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=683
+00:08:53	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=683 to http://anpsthemes.com/psychiatrist/demo-2/product/peace-of-mind/
+00:09:28	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=24681928425f5a9133504de568f5f6df&_wpnonce=5adb1187ab
+00:09:28	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=24681928425f5a9133504de568f5f6df&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/?removed_item=1
+00:09:31	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=655
+00:09:31	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=655 to http://anpsthemes.com/psychiatrist/demo-2/product/psychology-1-on-1/
+00:10:13	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=3d2d8ccb37df977cb6d9da15b76c3f3a&_wpnonce=5adb1187ab
+00:10:13	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=3d2d8ccb37df977cb6d9da15b76c3f3a&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/?removed_item=1
+00:10:15	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=55743cc0393b1cb4b8b37d09ae48d097&_wpnonce=5adb1187ab
+00:10:15	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=55743cc0393b1cb4b8b37d09ae48d097&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/?removed_item=1
+00:11:01	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/shop/page/1/
+00:11:01	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/shop/page/1/ to http://anpsthemes.com/psychiatrist/demo-2/shop/
+00:11:23	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=657
+00:11:23	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=657 to http://anpsthemes.com/psychiatrist/demo-2/product/relaxing-book/
+00:11:51	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=b4288d9c0ec0a1841b3b3728321e7088&_wpnonce=5adb1187ab
+00:11:51	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=b4288d9c0ec0a1841b3b3728321e7088&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/quick-guide/?removed_item=1
+00:12:15	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=653
+00:12:15	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=653 to http://anpsthemes.com/psychiatrist/demo-2/product/tranquillity/
+00:12:37	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=eaae339c4d89fc102edd9dbdb6a28915&_wpnonce=5adb1187ab
+00:12:37	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=eaae339c4d89fc102edd9dbdb6a28915&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/quick-guide/?removed_item=1
+00:12:53	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=641
+00:12:53	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=641 to http://anpsthemes.com/psychiatrist/demo-2/product/train-your-mind/
+00:13:26	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=67e103b0761e60683e83c559be18d40c&_wpnonce=5adb1187ab
+00:13:26	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=67e103b0761e60683e83c559be18d40c&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/quick-guide/?removed_item=1
+00:13:35	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=9
+00:13:35	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=9 to http://anpsthemes.com/psychiatrist/demo-2/my-account/
+00:14:05	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=8
+00:14:05	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=8 to http://anpsthemes.com/psychiatrist/demo-2/checkout/
+00:14:07	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=443cb001c138b2561a0d90720d6ce111&_wpnonce=5adb1187ab
+00:14:07	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=443cb001c138b2561a0d90720d6ce111&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/checkout/
+00:15:09	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=9b698eb3105bd82528f23d0c92dedfc0&_wpnonce=5adb1187ab
+00:15:09	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=9b698eb3105bd82528f23d0c92dedfc0&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/calm-mind/?add-to-cart=654
+00:15:16	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=8c7bbbba95c1025975e548cee86dfadc&_wpnonce=5adb1187ab
+00:15:16	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=8c7bbbba95c1025975e548cee86dfadc&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/depression-winner/?add-to-cart=643
+00:15:34	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=26408ffa703a72e8ac0117e74ad46f33&_wpnonce=5adb1187ab
+00:15:34	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=26408ffa703a72e8ac0117e74ad46f33&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/emotions-surge/?add-to-cart=654
+00:16:00	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=291597a100aadd814d197af4f4bab3a7&_wpnonce=5adb1187ab
+00:16:00	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=291597a100aadd814d197af4f4bab3a7&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/group-session/?add-to-cart=683
+00:16:19	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=ab233b682ec355648e7891e66c54191b&_wpnonce=5adb1187ab
+00:16:19	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=ab233b682ec355648e7891e66c54191b&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/happiness/?add-to-cart=653
+00:16:32	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=303ed4c69846ab36c2904d3ba8573050&_wpnonce=5adb1187ab
+00:16:32	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=303ed4c69846ab36c2904d3ba8573050&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/help-your-mind/?add-to-cart=652
+00:16:55	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=30ef30b64204a3088a26bc2e6ecf7602&_wpnonce=5adb1187ab
+00:16:55	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=30ef30b64204a3088a26bc2e6ecf7602&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/peace-of-mind/?add-to-cart=643
+00:17:07	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=646
+00:17:07	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=646 to http://anpsthemes.com/psychiatrist/demo-2/product/sadness-defeated/
+00:17:40	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=0ff39bbbf981ac0151d340c9aa40e63e&_wpnonce=5adb1187ab
+00:17:40	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=0ff39bbbf981ac0151d340c9aa40e63e&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/psychology-1-on-1/?removed_item=1
+00:18:16	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=3d2d8ccb37df977cb6d9da15b76c3f3a&_wpnonce=5adb1187ab
+00:18:16	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=3d2d8ccb37df977cb6d9da15b76c3f3a&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/page/2/?add-to-cart=657
+00:18:16	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=645
+00:18:16	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=645 to http://anpsthemes.com/psychiatrist/demo-2/product/tool-belt/
+00:18:46	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=5e9f92a01c986bafcabbafd145520b13&_wpnonce=5adb1187ab
+00:18:46	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=5e9f92a01c986bafcabbafd145520b13&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/page/2/?removed_item=1
+00:18:53	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/?p=650
+00:18:53	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/?p=650 to http://anpsthemes.com/psychiatrist/demo-2/product/the-process/
+00:19:20	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=884d247c6f65a96a7da4d1105d584ddd&_wpnonce=5adb1187ab
+00:19:20	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?remove_item=884d247c6f65a96a7da4d1105d584ddd&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/shop/page/2/?removed_item=1
+00:19:38	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/product-category/psychiatry/page/1/
+00:19:38	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/product-category/psychiatry/page/1/ to http://anpsthemes.com/psychiatrist/demo-2/product-category/psychiatry/
+00:19:39	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/product-category/psychology/page/1/
+00:19:39	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/product-category/psychology/page/1/ to http://anpsthemes.com/psychiatrist/demo-2/product-category/psychology/
+00:19:56	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=b4288d9c0ec0a1841b3b3728321e7088&_wpnonce=5adb1187ab
+00:19:56	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=b4288d9c0ec0a1841b3b3728321e7088&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/quick-guide/?add-to-cart=652
+00:20:19	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=eaae339c4d89fc102edd9dbdb6a28915&_wpnonce=5adb1187ab
+00:20:19	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=eaae339c4d89fc102edd9dbdb6a28915&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/quick-guide/?add-to-cart=655
+00:20:32	Error: 	"Not Found" (404) at link anpsthemes.com/psychiatrist/demo-2/wp-admin/&reauth=1 (from anpsthemes.com/psychiatrist/demo-2/wp-login.php?redirect_to=http%3A%2F%2Fanpsthemes.com%2Fpsychiatrist%2Fdemo-2%2Fwp-admin%2F%26reauth=1)
+00:20:32	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=67e103b0761e60683e83c559be18d40c&_wpnonce=5adb1187ab
+00:20:32	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=67e103b0761e60683e83c559be18d40c&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/my-account/
+00:20:32	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/product-category/analysis/page/1/
+00:20:32	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/product-category/analysis/page/1/ to http://anpsthemes.com/psychiatrist/demo-2/product-category/analysis/
+00:21:22	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=0ff39bbbf981ac0151d340c9aa40e63e&_wpnonce=5adb1187ab
+00:21:22	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=0ff39bbbf981ac0151d340c9aa40e63e&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/psychology-1-on-1/?add-to-cart=644
+00:21:42	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=5e9f92a01c986bafcabbafd145520b13&_wpnonce=5adb1187ab
+00:21:42	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=5e9f92a01c986bafcabbafd145520b13&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product/the-process/?add-to-cart=648
+00:21:55	Warning: 	Found for anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=884d247c6f65a96a7da4d1105d584ddd&_wpnonce=5adb1187ab
+00:21:55	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/cart/?undo_item=884d247c6f65a96a7da4d1105d584ddd&_wpnonce=5adb1187ab to http://anpsthemes.com/psychiatrist/demo-2/product-category/psychiatry/page/2/?add-to-cart=650
+00:22:36	Warning: 	Moved Permanently for anpsthemes.com/psychiatrist/demo-2/shop/page/1/?removed_item=1
+00:22:36	Warning: 	File has moved from anpsthemes.com/psychiatrist/demo-2/shop/page/1/?removed_item=1 to http://anpsthemes.com/psychiatrist/demo-2/shop/?removed_item=1
+
+HTTrack Website Copier/3.49-2 mirror complete in 43 minutes 24 seconds : 1016 links scanned, 912 files written (66821315 bytes overall) [68453711 bytes received at 26287 bytes/sec], 1.9 requests per connection
+(9 errors, 188 warnings, 0 messages)
