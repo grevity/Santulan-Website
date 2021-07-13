@@ -607,7 +607,7 @@ blockquote:not([class]), .blockquote-style-1 {
 
 /** Featured Header */
 .featured-header {
-  border-bottom: 5px solid #1bc2a1;
+  border-bottom: 5px solid #e67e22;
   position: relative;
   width: 100%; }
   .featured-header a {
@@ -2633,7 +2633,7 @@ section.recent-news {
 .owl-nav {
   display: inline-block; }
   .owl-nav button {
-    background-color: #1bc2a1;
+    background-color: #e67e22;
     height: 40px;
     width: 49px;
     border: none;
@@ -2646,7 +2646,7 @@ section.recent-news {
       border-radius: 3px 0 0 3px;
       margin-right: 1px; }
       .owl-nav button:first-of-type:after {
-        background-color: #1bc2a1;
+        background-color: #e67e22;
         border-right: 1px solid rgba(0, 0, 0, 0.05);
         content: "";
         height: 100%;

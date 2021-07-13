@@ -134,7 +134,7 @@ jQuery(function($) {
     }
 
     function changeLogos(id) {
-        $('.logo-wrap img, .widget_anpsimages img, .logo-sticky img').attr('src', $('#plugin-path').val() + '/img/logos/' + id + '.png');
+        $('.logo-wrap img, .widget_anpsimages img, .logo-sticky img').attr('src', 'https://santulan-website-assets.s3.ap-south-1.amazonaws.com/santulan_logo.png');
     }
 
     function changeCode(el, schemes, id, addRev) {
@@ -166,10 +166,7 @@ jQuery(function($) {
     function changeStyle(fallback) {
         var id = $(this).attr('id') ? $(this).attr('id') : fallback;
         var schemes = {
-            'style-1': ['1bc2a1', '16a085', '1dcca9', '0a4d40'],
-            'style-2': ['49b9f5', '1394d4', '28b1f0', '004161'],
-            'style-3': ['9b59b6', '820eb3', 'b45fd9', '40005c'],
-            'style-4': ['416385', '688db3', '4f7ba6', '2c3e50'],
+            'style-1': ['e67e22', 'e67e22', 'e67e22', 'e67e22'],
         }
 
         /* Revolution Slider */
