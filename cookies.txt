@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-anpsthemes.com	TRUE	/psychiatrist/demo-2/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
-anpsthemes.com	TRUE	/psychiatrist/demo-2/	FALSE	1999999999	woocommerce_items_in_cart	1
-anpsthemes.com	TRUE	/psychiatrist/demo-2/	FALSE	1999999999	woocommerce_cart_hash	38fd14aa5a883848ebd1567b58325b59
-anpsthemes.com	TRUE	/psychiatrist/demo-2/	FALSE	1999999999	wp_woocommerce_session_0328dd996e839b6c00416ce6cb1905a6	f5302f53f589bed8f720c4f36b11cc15%7C%7C1626286887%7C%7C1626283287%7C%7C0708c92810c7d264732e4a4174e8e689
-
